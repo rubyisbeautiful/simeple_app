@@ -1,1 +1,1 @@
-echo "I ran, I ran so far away...I couldn't get away"
+bundle exec rails server -p 8080
