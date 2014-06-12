@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec ruby runme.rb
+bundle exec rackup -p 8080
