@@ -1,1 +1,4 @@
-bundle exec rails server -p 8080
+#!/bin/bash
+eval "$(rbenv init -)"
+cd /app
+bundle exec rackup -p 8080
