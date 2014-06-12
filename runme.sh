@@ -1,1 +1,2 @@
-echo "I ran, I ran so far away...I couldn't get away"
+#!/bin/bash
+bundle exec ruby runme.rb
