@@ -1,1 +1,4 @@
 exec: runme.sh
+ruby: 2.0.0-p353
+ports:
+  - 8080

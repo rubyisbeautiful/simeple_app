@@ -1,7 +1,7 @@
 require 'sinatra'
 
 class SimpleApp < Sinatra::Base
-  get '/hi' do
+  get '/' do
     'Hello World!'
   end
 end
