@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec rackup -p 8080
+bin/rackup -p 8080
