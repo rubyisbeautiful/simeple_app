@@ -1,1 +1,1 @@
-exec: /app/runme.sh
+exec: runme.sh
